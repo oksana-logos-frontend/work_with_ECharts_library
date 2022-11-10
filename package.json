@@ -1,0 +1,18 @@
+{
+  "name": "echarts_library",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "type": "module",
+  "dependencies": {
+    "echarts": "^5.4.0"
+  },
+  "scripts": {
+    "start": "parcel --open",
+    "lint": "eslint ./src --fix --color",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "parcel": "^2.8.0"
+  }
+}
