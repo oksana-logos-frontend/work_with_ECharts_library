@@ -9,10 +9,12 @@
   "scripts": {
     "start": "parcel --open",
     "lint": "eslint ./src --fix --color",
-    "build": "parcel build"
+    "build": "parcel build",
+    "deploy": "gh-pages -d src"
   },
   "devDependencies": {
     "eslint": "^8.27.0",
+    "gh-pages": "^4.0.0",
     "parcel": "^2.8.0"
   }
 }
