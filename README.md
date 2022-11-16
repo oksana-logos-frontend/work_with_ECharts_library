@@ -1,4 +1,4 @@
-# work_with_ECharts_library
+# work with ECharts library
 
 - Here is [DEMO LINK](https://oksana-logos-frontend.github.io/work_with_ECharts_library/)
 
